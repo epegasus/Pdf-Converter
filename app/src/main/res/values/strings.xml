@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pdf Converter</string>
+    <string name="generate_pdf_images">Generate Pdf (Images)</string>
+    <string name="generate_pdf_word">Generate Pdf (Word)</string>
+</resources>
